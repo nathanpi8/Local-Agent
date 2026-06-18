@@ -1,4 +1,4 @@
-# LocalChat AI
+# Local Agent
 
 An AI chat interface with RAG and multiple tools.
 
